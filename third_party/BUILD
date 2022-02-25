@@ -13,6 +13,21 @@ alias(
 )
 
 alias(
+    name = "freezegun",
+    actual = requirement("freezegun"),
+)
+
+alias(
+    name = "nltk",
+    actual = requirement("nltk"),
+)
+
+alias(
+    name = "psycopg2",
+    actual = requirement("psycopg2-binary"),
+)
+
+alias(
     name = "ptvsd",
     actual = requirement("ptvsd"),
 )
@@ -20,4 +35,24 @@ alias(
 alias(
     name = "pylint",
     actual = requirement("pylint"),
+)
+
+alias(
+    name = "pytorch",
+    actual = requirement("pytorch"),
+)
+
+alias(
+    name = "spacy",
+    actual = requirement("spacy"),
+)
+
+alias(
+    name = "testing.postgresql",
+    actual = requirement("testing.postgresql"),
+)
+
+alias(
+    name = "transformers",
+    actual = requirement("transformers"),
 )
