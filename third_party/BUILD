@@ -39,7 +39,7 @@ alias(
 
 alias(
     name = "pytorch",
-    actual = requirement("pytorch"),
+    actual = requirement("torch"),
 )
 
 alias(
