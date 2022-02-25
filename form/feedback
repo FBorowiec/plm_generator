@@ -1,0 +1,26 @@
+Would you like to be mentioned in the feedback?: bool
+
+Select your feedback: Improvement / Reward
+
+Type of feedback: Leadership / Performance
+
+If you chose Leadership, select one of the behaviors:
+* Drive collaboration through respect and openness
+* Coach, empower and develop others
+* Demonstrate humility
+* Hold yourself and others accountable
+* Have the courage to make tough calls
+
+If you chose Performance, select:
+* Embrace and cherish competition; reach for "best in class"
+* Drive for discontinuity
+* Deliver as a way of life
+* Keep things simple
+* Act with integrity and honesty
+
+Send feedback to: List[str]
+
+Insert your feedback here: str
+
+Would you like to have the feedback sent to the person?: bool
+
